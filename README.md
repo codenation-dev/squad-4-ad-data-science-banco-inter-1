@@ -31,5 +31,5 @@ Portfolio 3: Ids dos clientes da empresa 3
 
 - Rafael Barbosa  | rlbarbosa
 
-- Roberth Macedo  | macedoroberth*
+- Roberth Macedo  | macedoroberth
 ```
